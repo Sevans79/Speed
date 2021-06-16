@@ -1,0 +1,3 @@
+Get word to run across the screen 
+When word is typed and enter is hit, remove word from display
+How will it know what word to delete? 
